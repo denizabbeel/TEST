@@ -1,0 +1,9 @@
+# Ignore Python compiled files 
+*.pyc 
+__pycache__/ 
+ECHO is on.
+# Ignore virtual environments 
+venv/ 
+ECHO is on.
+# Ignore logs 
+*.log 
